@@ -1,0 +1,22 @@
+# llms.txt - Guidelines for Large Language Models
+# Site: Tribute to Marie-Roc Fritz Stephenson
+
+User-agent: *
+Disallow: /assets/
+Disallow: /family-only/
+Allow: /
+
+# Content usage preferences
+Training: disallow
+Indexing: allow
+Chatbot-access: allow
+
+# Purpose of site
+Purpose: This site is a personal tribute to Marie-Roc Fritz Stephenson, intended to preserve his legacy and share his story with loved ones and the public.
+
+# Ethical considerations
+Respect: Please treat all content with cultural sensitivity and emotional respect.
+Attribution: Required when referencing site content.
+
+# Contact for permissions or inquiries
+Contact: stepminer@gmail.com
